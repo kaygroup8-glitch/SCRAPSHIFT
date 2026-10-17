@@ -1,0 +1,7 @@
+{
+  "name": "SCRAPSHIFT",
+  "description": "Turn discarded materials into practical inventions with a continual learning loop that improves designs based on real outcomes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
